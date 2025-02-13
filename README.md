@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kip</h1>
 <h3 align="center">A passionate Data Analyst based in Bristol, UK 📍</h3>
-
+<div align="center">Check out my 📊 <a href=https://github.com/kiprenzo/Data-Analytics-Power-BI-Report>latest PowerBI report here.</a></div>
+<br>
 - 💬 Ask me about **PowerBI, SQL & film trivia**
-
 - 📫 Reach me at: **kipras.varanavicius@gmail.com**
-
 - 📄 My CV [Kipras Coding CV '25.pdf](here)
 
 ### Coding Languages:
