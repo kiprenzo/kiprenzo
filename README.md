@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kip</h1>
 <h3 align="center">A passionate Data Analyst based in Bristol, UK 📍</h3>
+<div style="text-align: center"><img src="[Data-Analytics-Power-BI-Report/images/product_detail.gif](https://github.com/kiprenzo/Data-Analytics-Power-BI-Report/blob/main/images/product_detail.gif?raw=true)" width=60%></img></div>
 <div align="center">Check out my 📊 <a href=https://github.com/kiprenzo/Data-Analytics-Power-BI-Report>latest PowerBI report here.</a></div>
 <br>
+
 - 💬 Ask me about **PowerBI, SQL & film trivia**
 - 📫 Reach me at: **kipras.varanavicius@gmail.com**
 - 📄 My CV [Kipras Coding CV '25.pdf](here)
